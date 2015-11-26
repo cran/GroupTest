@@ -1,0 +1,15 @@
+cf39eb6ae007fe2dd805c0589a4e3459 *DESCRIPTION
+a3c1ed6f09be9106b5e1b71021b61632 *NAMESPACE
+3af48452c5cbe0e05f82afbfa162cfb5 *R/GT.decision.R
+473d14716cd87d8d79d0a3b7dcbdc25c *R/GT.em.R
+8a28b030533512c33e2757318e8fac22 *R/GT.localfdr.R
+7548d4e8ddc71cb35fd2f86a32f90e2d *R/GT.wrapper.R
+dc1d598cd8958e38ddd1ead0769913ef *data/AYP.RData
+46a6dd701a36adef6e035e182f21986a *data/GroupTest_simulate.RData
+a4c3daefad670beedd200502ceced344 *man/AYP.Rd
+bdf23b4ea322329696d9ce4300cdd962 *man/GT.decision.Rd
+d155f60e1989f33d314fc4dcd6e64bbb *man/GT.em.Rd
+3efee2edbbad7b1fd36b2b366ae1a4a3 *man/GT.localfdr.Rd
+2979019bd8f43bfb86696281464753cc *man/GT.wrapper.Rd
+41b2c6018f380a21e36c0834ec307342 *man/GroupTest-package.Rd
+0cda28807648d9d8925a2ce6e450a5d4 *man/GroupTest_simulate.Rd
